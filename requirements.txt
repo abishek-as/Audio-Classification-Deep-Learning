@@ -1,0 +1,10 @@
+notebook
+librosa
+pandas
+seaborn
+numpy
+tqdm
+matplotlib
+scikit-learn
+tensorflow
+django
